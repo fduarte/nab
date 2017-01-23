@@ -1,0 +1,14 @@
+{
+  "name": "Converter",
+  "authors": [
+    {
+      "name": "Freddy Duarte",
+      "email": "freddy@freddyduarte.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RomanNumeralConverter\\": "src/"
+    }
+  }
+}
